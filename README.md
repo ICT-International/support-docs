@@ -1,6 +1,8 @@
 # ICT International Document Library
 
-All support resources for ICT International can be found here, categorised by product.
+All support resources for ICT International will be found here, categorised by product. 
+
+The estimate of the launch for this new site is April 2026.
 
 ## Available resources
 
