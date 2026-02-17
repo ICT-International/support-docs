@@ -39,6 +39,7 @@ Shortcuts to key information for individual products can be found here:
     - Acclima TDR 310/315
   - Calibration
 - Internet of Things Nodes
+  - AD-Node https://github.com/Bikal-ICT-International/support-docs-site/blob/main/Products/Nodes/ADNode.md 
   - Choosing your network
     - Installation considerations
     - Planning your node locations
